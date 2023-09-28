@@ -2,5 +2,46 @@ body {
     max-width: 600px;
     margin: 0 auto;
     margin-top: 20px; /* Adjust this value as needed for desired spacing */
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
 
 }
+
+/* Headers */
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  h3 {
+    font-size: 1.75em;
+  }
+  
+  /* Article Summary */
+  .summary {
+    font-size: 1.1em;
+    line-height: 1.7;
+  }
+  
+  /* Article Content */
+  .article-content {
+    font-size: 1em;
+    line-height: 1.8;
+  }
+  
+  /* Meta Information like date, author */
+  .meta-info {
+    font-size: 0.9em;
+    color: #777;
+  }
+  
+  /* Footer */
+  footer {
+    font-size: 0.8em;
+  }
